@@ -24,7 +24,7 @@ train and test dataset of  antifungal dataset:<br>
 AF_train.tsv<br>
 AF_test.tsv<br>
 
-2.code<br>
+2.code:<br>
 phase 1 training and testing<br>
 main_amp.py<br>
 
