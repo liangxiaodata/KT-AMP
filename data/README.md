@@ -2,7 +2,7 @@
 1.data:<br>
 train and test dataset of  antimicrobial dataset:<br>
 amp_train.tsv<br>
-amp_train.tsv<br>
+amp_test.tsv<br>
 
 train and test dataset of  antibacterial dataset:<br>
 AB_train.tsv<br>
