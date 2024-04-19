@@ -32,6 +32,9 @@ phase 2 training and testing<br>
 main_other.py<br>
 
 # Use:
+Using a pre-trained model: Download the model files from Rostlab/prot_t5_xl_half_uniref50-enc on HuggingFace and place them in a folder named /prot_t5_xl_half_uniref50-enc at the same level.<br>
+
+
 ```bash
 python main_amp.py
 python main_other.py
