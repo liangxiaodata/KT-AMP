@@ -42,7 +42,7 @@ python main_other.py
 
 
 # Contact 
-If you have any questions or suggestions with the code, please let us know. Contact Xiao Liang at laingxiaomath@csu.edu.cn
+If you have any questions or suggestions with the code, please let us know. Contact Xiao Liang at liangxiaomath@csu.edu.cn
 
 
 
